@@ -4,6 +4,7 @@
 
 - [（三栏布局）(左右宽度固定，中间自适应)](https://github.com/liuxilei/CSS-About/issues/1)
 - [（三栏布局）(上下高度固定，中间自适应)](https://github.com/liuxilei/CSS-About/issues/2)
+- [table布局样式对应查询](https://github.com/liuxilei/CSS-About/issues/3)
 
 **flex布局学习**
 - [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
