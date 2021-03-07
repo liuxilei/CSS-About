@@ -13,8 +13,9 @@
 - [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 - [Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
 
-#### Table布局样式对应查询 [地址](https://github.com/liuxilei/CSS-About/issues/3)
+#### Table布局样式对应查询 [查看](https://github.com/liuxilei/CSS-About/issues/3)
 
+#### BFC详解 [查看](https://github.com/liuxilei/CSS-About/issues/7)
 
 ### 工具
 - [Emmet快捷键查询](https://raw.githubusercontent.com/liuxilei/CSS-About/main/assert/Emmet-Documentation.jpg)
