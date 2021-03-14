@@ -10,8 +10,8 @@
 - [两栏布局(上高度固定，下自适应)](https://github.com/liuxilei/CSS-About/issues/6)
 
 #### flex布局学习
-- [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
-- [Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
+- [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)`代码./code/flex-grammar.html`
+- [Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html) `代码./code/flex-parctice.html`
 
 #### Table布局样式对应查询 [查看](https://github.com/liuxilei/CSS-About/issues/3)
 
